@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    min-width: 100vw;
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+    /* justify-items: center; */
+}
+
+h1.wip {
+    color: pink;
+    margin: 0;
+    padding: 0;
+
+    font-size: 6em;
+    font-family: 'Comic Neue', 'Comic Sans', sans-serif;
+    line-height: 0;
+    text-align: center;
+
+    width: 100%;
+}
